@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynaList</string>
+    <string name="action_settings">Settings</string>
+    <string name="fast_connection_25">Fast load of 25 items</string>
+    <string name="slow_connection_25">Slow load of 25 items</string>
+    <string name="fast_connection_250">Fast load of 250 items</string>
+    <string name="slow_connection_250">Slow load of 250 items</string>
+    
+    <string name="loading">Loading&#8230;</string>
+   
+    <string name="label_landmarks">Landmarks </string>
+    <string name="label_family">Family </string>
+    <string name="label_friends">Friends </string>
+    <string name="label_dining">Dining </string>
+    <string name="label_bars">Bars </string>
+    <string name="label_entertainment">Entertainment  </string>
+    <string name="label_shopping">Shopping</string>
+    <string name="label_restrooms">Restrooms  </string>
+    <string name="label_sports">Sports </string>
+    <string name="label_recreation">Recreation  </string>
+    <string name="label_leisure">Leisure </string>
+    <string name="label_hiking">Hiking Trail </string>
+    <string name="label_cycling">Cycling Trail </string>
+    <string name="label_rail">Rail Passage</string>
+    <string name="label_pets">Pets </string>
+    <string name="label_wildlife">Wildlife</string>
+    <string name="label_other">Other </string>
+
+</resources>
